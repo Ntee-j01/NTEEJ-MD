@@ -1,3 +1,4 @@
+//nteej
 const { prefix, smd } = require("../lib");
 
 smd(
