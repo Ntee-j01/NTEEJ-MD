@@ -1,168 +1,168 @@
- # QUEEN_ANITA-V2
-   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<h1 align="center"> 🇳 🇹 🇪 🇪 🇯 -🇲 🇩   </h1> 
+<p align="center">l introduce <b>Nteej-MD</b>, a powerful simple to use interactive bot with many features.It is a multidevice bot created and designed by Nteej Tech to make your whatsapp more exciting and entertaining.Please support us and we will bring more amazing features  </p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+![Nteej tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=8df925ff&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Guys%F0%9F%91%8B!;I+thank+you+for+always+supporting+my+content;I+am+Nteej+Tech+the+creator+of+Nteej-Md;bot+more+commands+are+coming+soon;Thank+you+👍;♥️;🫂)
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ QUEEN_+ANITA-+V2★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DAVID+CYRIL;RELEASED+DATE+22%2F6%2F2024." alt="Typing SVG" /></a>
- </p>
-<p align="center">
-<img src="https://telegra.ph/file/a22200a780671e0e32383.jpg"/> 
-<p align="center"><img src="https://profile-counter.glitch.me/{DeeCeeXxx}/count.svg" alt="DeeCeeXxx :: Visitor's Count" /></p>
-<p align="center">
-<a href="https://github.com/DeeCeeXxx/followers"><img title="Followers" src="https://img.shields.io/github/followers/DeeCeeXxx?color=red&style=flat-square"></a>
-<a href="https://github.com/DeeCeeXxx/Queen_Anita-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DeeCeeXxx/Queen_Anita-V2?color=blue&style=flat-square"></a>
-<a href="https://github.com/DeeCeeXxx/Queen_Anita-V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DeeCeeXxx/Queen_Anita-V2?color=red&style=flat-square"></a>
-<a href="https://github.com/DeeCeeXxx/Queen_Anita-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DeeCeeXxx/Queen_Anita-V2?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/DeeCeeXxx/Queen_Anita-V2/"><img title="Size" src="https://img.shields.io/github/repo-size/DeeCeeXxx/Queen_Anita-V2?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDeeCeeXxx%2FQueen_Anita-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/DeeCeeXxx/Queen_Anita-V2/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+  <a href="https://github.com/Ntee-j01/NTEEJ-MD">
+    
+  </a>
 </p>
-<p align='center'>
-    </p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+    
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+   
+   
 <p align="center">
-
- ## QUEEN_ANITA-V2 Deployment Methods
-
-### 1. FORK THIS REPO
-
-<a href='https://github.com/DeeCeeXxx/Queen_Anita-V2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
-
-### 2. GET SESSION ID HERE
-
-<a href='https://mainv2-f66485a0f702.herokuapp.com/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a> 
-
-### DEPLOY ON SCALINGO (recommended) 
-
-1. If you don't have an account in Scalingo, create one and deploy.
-    <br>
-    <a href='https://auth.scalingo.com/users/sign_in' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=scalingo&logoColor=white'/></a>
-
-### DEPLOY ON RENDER
-
-1. If you don't have an account in RENDER, create one and deploy.
-    <br>
-    <a href='https://dashboard.render.com/select-repo?type=web' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
+  <a href="https://github.com/Ntee-j01?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Ntee-j01?label=Followers&style=social"></a>
+  <a href="https://github.com/Ntee-j01/NTEEJ-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Ntee-j01/NTEEJ-MD?&style=social"></a>
+  <a href="https://github.com/Cod3Uchiha/TKM-bot/network/members"><img
+  <a href="https://github.com/Ntee-j01/NTEEJ-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ntee-j01/NTEEJ-MD?style=social"></a>
+  <a href="https://github.com/Ntee-j01/NTEEJ-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Ntee-j01/NTEEJ-MD?label=Watching&style=social"></a>
+</p>
+ 
+<p align="center"><img src="https://profile-counter.glitch.me/{Ntee-j01}/count.svg" alt="NTEEJ MD :: Visitor's Count" /></p>
 
 
-### DEPLOY ON CLEVER CLOUD
 
-1. If you don't have an account in Clever Cloud, create one and deploy.
-    <br>
-    <a href='https://api.clever-cloud.com/v2/sessions/signup?subscription_source=cta-home-signup' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-orange?style=for-the-badge&logo=clever-cloud&logoColor=white'/></a>
 
-### DEPLOY ON HEROKU
 
-1. If you don't have an account in Heroku, create one.
-    <br>
-    <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-2. Now deploy.
-    <br>
-    <a href='https://dashboard.heroku.com/new?template=https://github.com/DeeCeeXxx/Queen_Anita-V2' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-### DEPLOY ON REPLIT
-1. Deploy.
-    <br>
-    <a href='https://replit.com/github/Deeceexxx/Queen_Anita-V2' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
-### DEPLOY ON RAILWAY
-1. Deploy.
-    <br>
-    <a href='https://railway.com/github/Deeceexxx/Queen_Anita-V2' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=railway&logoColor=white'/></a>
 
-    <h2 align="center"> ⚠️ NOTE  </h2>
-## QUEEN_ANITA-V2 SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!! 
+---
 
-## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
- <br> 
+<h3 align="center"><b>NTEEJ-MD</b> DEPLOYMENT METHODS
+</h3>
+
 <p align="center">
-<a href="https://wa.me/2349066528353"><img src="https://img.shields.io/badge/Contact David-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://t.me/deecee_x"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /><br>
+  <a href="https://github.com/Ntee-j01/NTEEJ-MD/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
+</p>
 <p align="center">
-<img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-# 
-Queen_Anita-V2 is a easy to use WhatsApp bot. 
+  <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Ntee-j01%2FNTEEJ-MD"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
+  <a href="https://venocyber-web01.vercel.app/replit.html"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
+  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Ntee-j01/NTEEJ-MD&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=263714497545&env[MONGODB_URI]&&env[OWNER_NAME]=Nteej ᴛᴇᴄʜ&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Nteej ᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=NTEEJ&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=Nteej-tech&env[KOYEB_NAME]=NTEEJ-MD&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/ecb1a11c450276bf7d396.jpg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
+</p>
+  <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
+</p>
+<p align="center">Need help? please create an <a href="https://github.com/Ntee-j01/NTEEJ-MD">issue</a></p>
 
-### Termux Setup
-```js
-termux-setup-storage
-```
-```
-apt update
-```
-```
-apt upgrade
-```
-```
-pkg update && pkg upgrade
-```
-```
-pkg install bash
-```
-```
-pkg install libwebp
-```
-```
-pkg install git -y
-```
-```
-pkg install nodejs -y
-```
-```
-pkg install ffmpeg -y 
-```
-```
-pkg install wget
-```
-```
-pkg install imagemagick -y
-```
-```
-git clone https://github.com/DeeCeeXxx/Queen_Anita-V2
-```
-```
-cd Queen_Anita-V2
-```
-```
-npm i
-```
-```
-npm start
-```
-
-- Command For 24/7
-```js
-npm i -g forever && forever index.js && forever save && forever logs
-```
-<br>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-* [🧑‍💻 Follow Queen_Anita-V2 Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z)
-
-* [🧑‍💻 Join Queen_Anita-V2 Group 🧑‍💻](https://t.me/hacktivisthive)
-
-* [✅ Join Public Group ⚡](https://chat.whatsapp.com/Hk4jZg8HMoH1auW2NAKazX)
-
-  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-## 
-
-- *Queen_Anita-V2 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
-- *In that case, I'm not responsible for banning your account.*
-- *Use Queen_Anita-V2 at your own risk by keeping this warning in mind.*
-  
-  #### ```TOTAL PROFILE VIEWS 🧚```
-![Visitor Count](https://profile-counter.glitch.me/DeeCeeXxx/count.svg)
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
- ## [ WHATSAPP CHANNEL ](https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z) 
-
-## Support
-
-SUPPORT CHANNEL: <a href="https://whatsapp.com/channel/0029VafEBFX2Jl8DSYclsS08"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+ 
 
 
-### Please Give One Star ✨ & [follow me notify my updates 💗](https://github.com/DeeCeeXxx)
-<b>Version -> 2.0.0</b>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+## NTEEJ-MD UPDATES
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+---
+1. ***Connect Four Game.***
+2.  ***Tic Tac Toe.***
+3.  ***Number Guessing Game.***
+4.  ***Word chain Game(wcg).***
+5.  ***Hidden Card Game.***
+6.  ***Rolling Dice.***
+7.  ***Character Guessing Game.***
+8.  ***Capital of City Finding.***
+##
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+ 
+
+
+
+<h3>NTEEJ-MD Stats</h3>
+
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Ntee-j01&repo=NTEEJ-MD&theme=chartreuse-dark)
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+---------
+## Github stats
+
+![github stats](https://github-readme-stats.vercel.app/api?username=Ntee-j01&show_icons=true&theme=chartreuse-dark)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Ntee-j01&layout=compact&theme=chartreuse-dark)
+
+    
+   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+## Deployment Methods
+
+---
+1.  ***Get `SESSION ID` by [`SCANING QR`](https://venocyber-qr-ce49794175c5.herokuapp.com/) 
+    <br>
+<a href="https://venocyber-md-qr.onrender.com"><img title="SCAN QR" src="https://img.shields.io/badge/Scanning qr-h?color=darkblue&style=for-the-badge&logo=msi"></a>
+2. ***Get `SESSION ID` by [`PARING CODE`](https://venocybersessiong-1431c6f72219.herokuapp.com/pair)
+    <br>
+<a href="https://venocyber-md-session-oz6r.onrender.com/pair"><img title="scanning code" src="https://img.shields.io/badge/ pairing code-h?color=green&style=for-the-badge&logo=msi"></a>
+`it is currently powerful working`
+Then `Go-to Whatapp>Three dots>Linked Devices`***
+4.  ***Click [`FORK`](https://github.com/Ntee-j01/NTEEJ-MD/fork) and `Star ⭐ Repository` for Courage.***
+5.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
+6.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
+7.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Ntee-j01%2FNTEEJ-MD)***
+8.  ***Deploy on [`Replit`](https://replit.com/github.com/Ntee-j01/NTEEJ-MD)***
+9.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Kingjux/Venocyber-md-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=255698101622env[MONGODB_URI]&&env[OWNER_NAME]=Venocyber&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Venocyber+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=VENOCYBER&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=Venocyber-md&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/ecb1a11c450276bf7d396.jpg)***
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+##
+---
+
+
+
+
+- Star this repo and feedback us here [`Whatsapp Me Here`](https://wa.me/+263714497545)
+
+
+### I Am
+- [Nteej Tech](https://github.com/Ntee-j01) 
+
+
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+##
+---
+### Credits to:
+`much thanks to`
+- [Cod3Uchiha](https://github.com/Cod3Uchiha) for supporting,code review and advice
+- [`Beltah Md`](https://github.com/Beltahmd) base of the bot
+- [D4X-UMAR](https://github.com/D4X-UMAR) for pairing and session tool
+
+---
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+
+### support us
+
+ - [ WHATSAPP GROUP ](https://chat.whatsapp.com/Er6RNNNVWV5LORN9Nr6hL7)
+ - [ WHATSAPP CHANNEL ](https://whatsapp.com/channel/0029Vae3GZF9Bb658QgSCl1I)
+- [ TELEGRAM 
+ ](https://t.me/Nteej)
+ 
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+©2024
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+
+<p align="center">
+  <a href="https://github.com/Ntee-j01/NTEEJ-MD">
+    <img alt="venocyber" height="300" src="https://i.postimg.cc/FssKzLK7/20240622-140407.jpg">
+  </a>
+</p>
+    
+   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
