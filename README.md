@@ -126,7 +126,8 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 ### Credits to:
 `much thanks to`
 - [`Cod3Uchiha`](https://github.com/Cod3Uchiha) for supporting and advice
-- [`DeeCeeXxx`](https://github.com/DeeCeeXxx) base of the bot
+- [`DeeCeeXxx`](https://github.com/DeeCeeXxx) code encryption
+- [`AstroFx0011`](https://github.com/AstroFx0011) base of the bot
 - [`D4X-UMAR`](https://github.com/D4X-UMAR) for pairing and session tool
 
 ---
