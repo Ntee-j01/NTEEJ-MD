@@ -1,3 +1,4 @@
+//nteej
 const os = require("os");
 const fs = require("fs");
 const Config = require("../config");
@@ -30,11 +31,11 @@ smd(
 ➮ʀᴜɴᴛɪᴍᴇ - ${runtime(process.uptime())} 
 ➮ᴅᴀᴛᴇ - ${message.date} 
 ➮ɴᴏᴡ ᴛɪᴍᴇ - ${message.time} 
-➮Fᴏᴜɴᴅᴇʀ- *David Cyril*
+➮Fᴏᴜɴᴅᴇʀ- *Nteej*
 ➮Oᴡɴᴇʀ - ${Config.ownername} 
 ➮Nᴜᴍ - ${owner.split(",")[0]} 
 ➮Mᴇᴍᴏ - ${formatp(os.totalmem() - os.freemem())} 
-      \n *QUEEN_ANITA-V2 SIMPLE WHATSAPP BOT*\n\n ${readmore} 
+      \n *NTEEJ-MD A SIMPLE WHATSAPP BOT WITH RICH LIBRARY CREATE BY NTEEJ*\n\n ${readmore} 
 ╭──❰ *ALL MENU* ❱ 
 │🎗 Lɪꜱᴛ 
 │🎗 Cᴀᴛᴇɢᴏʀʏ 
