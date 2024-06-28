@@ -517,7 +517,7 @@ smd(
     alias: ["oldwa", "bio", "onwa"],
     category: "search",
     desc: "Searches in given rage about given number.",
-    use: "9112345678xx",
+    use: "263778533166xx",
     filename: __filename,
   },
   async (message, text) => {
