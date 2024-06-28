@@ -1,3 +1,4 @@
+//nteej
 let {smd} = require("../lib")
 smd({
 	pattern: 'clear',
