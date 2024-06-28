@@ -1,3 +1,4 @@
+//nteej
 const { smd, audioEditor } = require("../lib");
 
 // Bass effect
