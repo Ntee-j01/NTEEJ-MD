@@ -1,3 +1,4 @@
+//nteej
 const { plugins, smd, Config } = require("../lib");
 let s_ser = true;
 
