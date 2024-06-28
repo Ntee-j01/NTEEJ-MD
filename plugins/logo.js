@@ -1,3 +1,4 @@
+//nteej
 const Config = require("../config");
 let { smd, lang, textToLogoGenerator, prefix } = require("../lib");
 smd(
