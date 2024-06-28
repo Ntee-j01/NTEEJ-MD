@@ -66,12 +66,9 @@
 ---
 1. ***Connect Four Game.***
 2.  ***Tic Tac Toe.***
-3.  ***Number Guessing Game.***
-4.  ***Word chain Game(wcg).***
-5.  ***Hidden Card Game.***
-6.  ***Rolling Dice.***
-7.  ***Character Guessing Game.***
-8.  ***Capital of City Finding.***
+3.  ***New menu***
+4.  ***heroku ban fixed***
+5.  ***New commands added***
 ##
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -152,16 +149,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-©2024  _   _  _____  ___    ___    _____ 
- ( ) ( )(_   _)(  _`\ (  _`\ (___  )
- | `\| |  | |  | (_(_)| (_(_)    | |
- | , ` |  | |  |  _)_ |  _)_  _  | |
- | |`\ |  | |  | (_( )| (_( )( )_| |
- (_) (_)  (_)  (____/'(____/'`\___/'
-                                    
-                                    
-
-
+©2024  
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
