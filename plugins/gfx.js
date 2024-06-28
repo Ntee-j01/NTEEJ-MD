@@ -1,3 +1,4 @@
+//nteej
 const { smd, prefix, Config } = require("../lib");
 const done = "✳️";
 const rwait = "✳️";
