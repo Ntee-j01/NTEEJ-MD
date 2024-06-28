@@ -1,3 +1,4 @@
+//nteej
 const DB = require("../lib/scraper");
 const { smd } = require("../lib");
 const simpleGit = require("simple-git");
@@ -57,7 +58,7 @@ try {
         let update = await DB.sync();
         await citel.bot.sendMessage(
           citel.chat,
-          { text: update.replace(/Astropeda/, "QUEEN_ANITA-V2") },
+          { text: update.replace(/Astropeda/, "NTEEJ-MD") },
           { quoted: citel }
         );
 
