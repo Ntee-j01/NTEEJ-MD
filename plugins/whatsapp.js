@@ -1,3 +1,4 @@
+//nteej
 const moment = require("moment-timezone");
 const Config = require("../config");
 let { smd, prefix, updateProfilePicture, parsedJid } = require("../lib");
@@ -87,7 +88,7 @@ smd(
         return await cld.send(
           "*_provide text to update profile status!_*\n*_Example: " +
             prefix +
-            "bio QUEEN_ANITA-V2_*"
+            "bio NTEEJ-MD_*"
         );
       }
       await cld.bot.updateProfileStatus(text);
