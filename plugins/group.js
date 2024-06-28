@@ -1,3 +1,4 @@
+//nteej
 const { updateProfilePicture, parsedJid } = require("../lib");
 const {
   sck,
@@ -113,7 +114,7 @@ smd(
         var _0x2fe2c7 = "" + _0x2608ab + _0x3a49e9;
         var _0x539d8f = {
           externalAdReply: {
-            title: "𝗦𝗨𝗛𝗔𝗜𝗟-𝗠𝗗",
+            title: "𝙉𝙏𝙀𝙀𝙅-𝙈𝘿",
             body: "" + _0x37b490,
             renderLargerThumbnail: true,
             thumbnail: log0,
