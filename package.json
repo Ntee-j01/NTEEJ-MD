@@ -1,7 +1,7 @@
 {
-    "name": "QUEEN_ANITA-V2",
+    "name": "NTEEJ-MD",
     "version": "1.0.0",
-    "description": "Simple Whatsapp Bot",
+    "description": "Simple Whatsapp Bot with multipurpose features",
     "main": "index.js",
     "type": "commonjs",
     "scripts": {
@@ -9,7 +9,7 @@
         "start": "pm2 start . --attach --name Anita_0.1",
         "stop": "pm2 stop Anita_0.1"
     },
-    "author": "QUEEN_ANITA-V2",
+    "author": "NTEEJ",
     "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
         "@hapi/boom": "^9.1.4",
@@ -72,10 +72,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/DeeCeeXxx/QUEEN_ANITA-V2.git"
+        "url": "git+https://github.com/Ntee-j01/NTEEJ-MD.git"
     },
     "bugs": {
-        "url": "https://github.com/DeeCeeXxx/QUEEN_ANITA-V2/issues"
+        "url": "https://github.com/Ntee-j01/NTEEJ-MD/issues"
     },
-    "homepage": "https://github.com/DeeCeeXxx/QUEEN_ANITA-V2#readme"
+    "homepage": "https://github.com/Ntee-j01/NTEEJ-MD#readme"
 }
