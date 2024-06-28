@@ -93,10 +93,10 @@
 ## Deployment Methods
 
 ---
-1.  ***Get `SESSION ID` by [`SCANING QR`](https://venocyber-qr-ce49794175c5.herokuapp.com/) 
+1.  ***Session`Menu` by [`QR and pair`](https://nteej-session-generator.onrender.com) 
     <br>
-<a href="https://venocyber-md-qr.onrender.com"><img title="SCAN QR" src="https://img.shields.io/badge/Scanning qr-h?color=darkblue&style=for-the-badge&logo=msi"></a>
-2. ***Get `SESSION ID` by [`PARING CODE`](https://venocybersessiong-1431c6f72219.herokuapp.com/pair)
+<a href="https://nteej-session-generator.onrender.com/wasiqr"><img title="SCAN QR" src="https://img.shields.io/badge/Scanning qr-h?color=darkblue&style=for-the-badge&logo=msi"></a>
+2. ***Get `SESSION ID` by [`PARING CODE`](https://nteej-session-generator.onrender.com/pair)
     <br>
 <a href="https://venocyber-md-session-oz6r.onrender.com/pair"><img title="scanning code" src="https://img.shields.io/badge/ pairing code-h?color=green&style=for-the-badge&logo=msi"></a>
 `it is currently powerful working`
