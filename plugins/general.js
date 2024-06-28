@@ -1,3 +1,4 @@
+//nteej
 const util = require("util");
 const fs = require("fs-extra");
 const { cmd } = require("../lib/plugins");
@@ -232,7 +233,7 @@ smd(
       try {
         let _0x557719 = _0x302ad5 ? _0x302ad5 : bot.reply_text;
         if (!_0x557719) {
-          return man.reply("Provide me a query ex Who is Suhail");
+          return man.reply("Provide me a query ex Who is Nteej");
         }
         const _0x50c8d3 = await fetch(
           "https://aemt.me/openai?text=" + _0x557719
@@ -738,15 +739,15 @@ smd(
         "https://api.github.com/repos/DeeCeeXxx/QUEEN_ANITA-V2d"
       );
       let _0x1c73f9 = (
-        "\nQUEEN_ANITA-V2 A simple Mutil Device WhatsApp Bot Created and Managed by *" +
+        "\nNTEEJ-MD A simple Mutil Device WhatsApp Bot with rich library Created and Managed by *" +
         Config.ownername +
         "*. 👑\n\n  *❲❒❳ Stars:* " +
         (_0x44f98c?.stargazers_count || "None (🥲)") +
         " stars\n  *❲❒❳ Forks:* " +
         (_0x44f98c?.forks_count || "1000+") +
-        " forks\n  *❲❒❳ Creator:* David Cyril\n  *❲❒❳ Created:* " +
+        " forks\n  *❲❒❳ Creator:* Nteej\n  *❲❒❳ Created:* " +
         (_0x44f98c?.created_at || "2024/06") +
-        "\n  *❲❒❳ Repo:* _https://github.com/DeeCeeXxx/Queen_Anita-V2_\n  *❲❒❳ Scan:* _" +
+        "\n  *❲❒❳ Repo:* _https://github.com/Ntee-j01/NTEEJ-MD_\n  *❲❒❳ Scan:* _" +
         scan +
         "_\n" +
         (Config.caption ? "\n\n" + Config.caption : "")
@@ -1219,7 +1220,7 @@ smd(
     pattern: "aitts",
     desc: "Text to Voice Using Eleven Lab Ai",
     category: "ai",
-    use: "<Hii, David>",
+    use: "<Hello, Nteej>",
     filename: __filename,
   },
   async (_0x1a01af, _0x1ac85a) => {
