@@ -1,3 +1,4 @@
+//nteej
 const { groupdb, smd, getBuffer, tlang, prefix } = require("../lib");
 const Config = require("../config");
 const eco = require("discord-mongoose-economy");
@@ -126,8 +127,8 @@ if (ty) {
               return message.reply(
                 `*You need to pay 🪙1000 to increase bank capacity ~ 100000 sp*`
               );
-            const deduct2 = await eco.deduct(user, "David", 1000);
-            const add2 = eco.giveCapacity(user, "David", 100000);
+            const deduct2 = await eco.deduct(user, "Nteej", 1000);
+            const add2 = eco.giveCapacity(user, "Nteej", 100000);
             return await message.reply(
               `*100000 🪙diamond storage has been added in ${message.pushName} bank*`
             );
