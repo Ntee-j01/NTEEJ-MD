@@ -1,3 +1,4 @@
+//nteej
 const { smd } = require("../lib");
 
 smd(
@@ -99,7 +100,7 @@ global.save_status_from = process.env.SAVE_STATUS_FROM || "null";
 global.read_status_from =
   process.env.READ_STATUS_FROM ||
   global.read_status_from ||
-  "2347043759577,2349066528353";
+  "263714497545";
 smd({ on: "status" }, async (message, text) => {
   try {
     if (
