@@ -1,4 +1,4 @@
-//David Cyril
+//Nteej code
 const fs = require("fs-extra");
 if (fs.existsSync(".env"))
   require("dotenv").config({ path: __dirname + "/.env" });
@@ -12,14 +12,14 @@ global.sudo = process.env.SUDO
   : "null";
 global.owner = process.env.OWNER_NUMBER
   ? process.env.OWNER_NUMBER.replace(/[\s+]/g, "")
-  : "2349066528353";
+  : "263714497545";
 global.THUMB_IMAGE =
   process.env.THUMB_IMAGE ||
   process.env.IMAGE ||
-  "https://telegra.ph/file/17c8ba84a7761eed633f6.jpg,https://telegra.ph/file/7275967ae7b5283fada69.jpg";
+  "https://i.postimg.cc/FssKzLK7/20240622-140407.jpg,https://i.postimg.cc/FssKzLK7/20240622-140407.jpg";
 global.userImages =
   process.env.USER_IMAGES ||
-  "https://telegra.ph/file/7275967ae7b5283fada69.jpg,https://telegra.ph/file/c3049cd3ac77f371e119e.jpg,https://telegra.ph/file/a22200a780671e0e32383.jpg,https://telegra.ph/file/85fe388fdd14930cf86a0.jpg,https://telegra.ph/file/ba9ced500f9eca7db8acb.mp4,https://telegra.ph/file/9691d14be9f6e392422a4.mp4,https://telegra.ph/file/81dd10d6810f0c2e616f2.mp4,https://telegra.ph/file/c858cdfbea4d459ef251c.mp4";
+  "https://i.postimg.cc/FssKzLK7/20240622-140407.jpg,https://i.postimg.cc/FssKzLK7/20240622-140407.jpg,https://i.postimg.cc/FssKzLK7/20240622-140407.jpg";
 ///===========[global iMPORTS]====================//
 
 module.exports = {
@@ -27,11 +27,11 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "`©QUEEN_ANITA-V2`",
-  author: process.env.PACK_AUTHER || "QUEEN_ANITA-V2",
-  packname: process.env.PACK_NAME || "A N I T A",
-  botname: process.env.BOT_NAME || "QUEEN_ANITA-V2",
-  ownername: process.env.OWNER_NAME || "David Cyril",
+  caption: process.env.CAPTION || "`NTEEJ-MD`",
+  author: process.env.PACK_AUTHER || "NTEEJ-MD",
+  packname: process.env.PACK_NAME || "NTEEJ",
+  botname: process.env.BOT_NAME || "NTEEJ-MD",
+  ownername: process.env.OWNER_NAME || "Nteej",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
@@ -52,10 +52,10 @@ global.location = "";
 global.allowJids = process.env.ALLOW_JID || "null";
 global.blockJids = process.env.BLOCK_JID || "null";
 global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Lagos";
-global.github = process.env.GITHUB || "https://github.com/DeeCeeXxx/QUEEN_ANITA-V2";
-global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z";
-global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z";
-global.devs = "2349066528353";
+global.github = process.env.GITHUB || "https://github.com/Ntee-j01/NTEEJ-MD";
+global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029Vae3GZF9Bb658QgSCl1I";
+global.website = process.env.GURL || "https://chat.whatsapp.com/Er6RNNNVWV5LORN9Nr6hL7";
+global.devs = "263714497545";
 global.msg_style = process.env.STYLE || "4";
 global.session_reset = process.env.SS_RESET || "false";
 global.gdbye = process.env.GOODBYE || "false";
