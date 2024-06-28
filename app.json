@@ -1,8 +1,8 @@
 {
-  "name": "QUEEN_ANITA-V2",
-  "description": "QUEEN_ANITA-V2 a simple WhatsAppp Bot",
-  "logo": "https://telegra.ph/file/a22200a780671e0e32383.jpg",
-  "keywords": "Anita-V2",
+  "name": "NTEEJ-MD",
+  "description": "A simple WhatsApp bot with advanced features",
+  "logo": "https://i.postimg.cc/FssKzLK7/20240622-140407.jpg",
+  "keywords": "Nteej md",
   "success_url": "/Asta/",
   "app_url": "/qr/",
 
@@ -28,7 +28,7 @@
     },
     "OWNER_NAME": {
       "description": "Owner Name",
-      "value": "David Cyril",
+      "value": "Nteej",
       "required": true
     },
 
@@ -46,12 +46,12 @@
     "BOT_NAME": {
       "description": "Bot Name",
       "required": false,
-      "value": "QUEEN_ANITA-V2"
+      "value": "NTEEJ-MD"
     },
     "USER_IMAGES": {
       "description": "Image for bot",
       "required": false,
-      "value": "https://telegra.ph/file/7275967ae7b5283fada69.jpg,https://telegra.ph/file/c3049cd3ac77f371e119e.jpg,https://telegra.ph/file/a22200a780671e0e32383.jpg,https://telegra.ph/file/85fe388fdd14930cf86a0.jpg,https://telegra.ph/file/ba9ced500f9eca7db8acb.mp4"
+      "value": "https://i.postimg.cc/FssKzLK7/20240622-140407.jpg,https://i.postimg.cc/tgg4fv86/nteej.jpg"
     },
     "TZ": {
       "description": "Don't change if you dont know your location.",
@@ -59,7 +59,7 @@
       "value": "Africa/Lagos"
     },
     "SS_RESET": {
-      "description": "If the bot doesn't work after delpoyment",
+      "description": "If the bot doesn't work after deployment",
       "required": false,
       "value": "false"
     },
@@ -104,7 +104,7 @@
     },
     "OWNER_NUMBER": {
       "description": "Owner number or sudo",
-      "value": "2349066528353,2347043759577"
+      "value": "263714497545"
     },
     "OPENAI_API_KEY": {
       "description": "put your OPENAI api key here.Get it from beta.openai.com ",
@@ -127,7 +127,7 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "QUEEN_ANITA-V2",
+      "value": "NTEEJ-MD",
       "required": false
     },
     "PACK_AUTHER": {
