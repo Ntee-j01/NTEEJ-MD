@@ -98,7 +98,7 @@
 <a href="https://nteej-session-generator.onrender.com/wasiqr"><img title="SCAN QR" src="https://img.shields.io/badge/Scanning qr-h?color=darkblue&style=for-the-badge&logo=msi"></a>
 2. ***Get `SESSION ID` by [`PARING CODE`](https://nteej-session-generator.onrender.com/pair)
     <br>
-<a href="https://venocyber-md-session-oz6r.onrender.com/pair"><img title="scanning code" src="https://img.shields.io/badge/ pairing code-h?color=green&style=for-the-badge&logo=msi"></a>
+<a href="https://nteej-session-generator.onrender.com/pair"><img title="scanning code" src="https://img.shields.io/badge/ pairing code-h?color=green&style=for-the-badge&logo=msi"></a>
 `it is currently powerful working`
 Then `Go-to Whatapp>Three dots>Linked Devices`***
 4.  ***Click [`FORK`](https://github.com/Ntee-j01/NTEEJ-MD/fork) and `Star ⭐ Repository` for Courage.***
