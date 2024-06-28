@@ -1,5 +1,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<img alt="NTEEJ MD" height="300" src="https://i.postimg.cc/tgg4fv86/nteej.jpg">
+  
 <h1 align="center"> 🇳 🇹 🇪 🇪 🇯 -🇲 🇩   </h1> 
 <p align="center">l introduce <b>Nteej-MD</b>, a powerful simple to use interactive bot with many features.It is a multidevice bot created and designed by Nteej Tech to make your whatsapp more exciting and entertaining.Please support us and we will bring more amazing features  </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -129,9 +131,9 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 ---
 ### Credits to:
 `much thanks to`
-- [Cod3Uchiha](https://github.com/Cod3Uchiha) for supporting,code review and advice
-- [`Beltah Md`](https://github.com/Beltahmd) base of the bot
-- [D4X-UMAR](https://github.com/D4X-UMAR) for pairing and session tool
+- [`Cod3Uchiha`](https://github.com/Cod3Uchiha) for supporting and advice
+- [`DeeCeeXxx`](https://github.com/DeeCeeXxx) base of the bot
+- [`D4X-UMAR`](https://github.com/D4X-UMAR) for pairing and session tool
 
 ---
 
@@ -150,7 +152,16 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-©2024
+©2024  _   _  _____  ___    ___    _____ 
+ ( ) ( )(_   _)(  _`\ (  _`\ (___  )
+ | `\| |  | |  | (_(_)| (_(_)    | |
+ | , ` |  | |  |  _)_ |  _)_  _  | |
+ | |`\ |  | |  | (_( )| (_( )( )_| |
+ (_) (_)  (_)  (____/'(____/'`\___/'
+                                    
+                                    
+
+
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -158,7 +169,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 
 <p align="center">
   <a href="https://github.com/Ntee-j01/NTEEJ-MD">
-    <img alt="venocyber" height="300" src="https://i.postimg.cc/FssKzLK7/20240622-140407.jpg">
+    <img alt="NTEEJ MD" height="300" src="https://i.postimg.cc/FssKzLK7/20240622-140407.jpg">
   </a>
 </p>
     
