@@ -1,3 +1,4 @@
+//nteej
 let { smd, smdBuffer, tlang, sleep } = require(global['"../lib"'] || "../lib");
 let fs = require("fs");
 var sifat = [
@@ -131,7 +132,7 @@ smd(
       let _0x39b0a0 = await _0x5ce955.bot.contextInfo(
         "QUEEN_ANITA-V2",
         "Hello " + _0x5ce955.senderName,
-        await smdBuffer("https://telegra.ph/file/4c52e7273806abbbc6555.jpg"),
+        await smdBuffer("https://i.postimg.cc/FssKzLK7/20240622-140407.jpg"),
         1,
         _0x1a71d9,
         3
