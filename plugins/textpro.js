@@ -1,3 +1,4 @@
+//nteej
 let { smd, textToLogoGenerator, prefix } = require("../lib");
 
 smd(
