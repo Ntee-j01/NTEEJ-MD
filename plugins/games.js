@@ -1,3 +1,4 @@
+//nteej
 const { cmd } = require("../lib/plugins");
 const eco = require("discord-mongoose-economy");
 const { fetchJson, sleep, botpic, getBuffer } = require("../lib");
