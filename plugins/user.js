@@ -1,4 +1,4 @@
-// Get JID Command
+//nteej
 let {cmd} = require("../lib/plugins");
 cmd({
   pattern: "jid",
@@ -71,7 +71,7 @@ cmd({
       const groupPicUrl =
         (await message.bot
           .profilePictureUrl(message.chat, "image")
-          .catch(() => "https://telegra.ph/file/29a8c892a1d18fdb26028.jpg")) ||
+          .catch(() => "https://i.postimg.cc/FssKzLK7/20240622-140407.jpg")) ||
         THUMB_IMAGE;
  
       const metadata = message.metadata;
