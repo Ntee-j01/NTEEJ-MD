@@ -1,3 +1,4 @@
+//nteej
 const axios = require("axios");
 const fs = require("fs-extra");
 const util = require("util");
@@ -344,7 +345,7 @@ smd({
 }, async (_0xbd587f, _0x53c116) => {
   try {
     let _0x48c907 = _0x53c116.trim();
-    let _0x5cfa86 = "┏━━━━━━━━━━━━━━━━━━━━━━━━\n┃\t*💬QUEEN_ANITA-V2_FANCY_TEXT💬* \n┗━━━━━━━━━━━━━━━━━━━━━━━━\n\n " + (_0x48c907 ? "```🔢Reply the number you wants to select``` \n\n" : "```\t\t" + prefix + "styly Suhail(For all text)\n\t\t" + prefix + "styly 19 Suhail(For specific text)```\n\n");
+    let _0x5cfa86 = "┏━━━━━━━━━━━━━━━━━━━━━━━━\n┃\t*NTEEJ-MD_FANCY_TEXT💬* \n┗━━━━━━━━━━━━━━━━━━━━━━━━\n\n " + (_0x48c907 ? "```🔢Reply the number you wants to select``` \n\n" : "```\t\t" + prefix + "styly Suhail(For all text)\n\t\t" + prefix + "styly 19 Suhail(For specific text)```\n\n");
     let {
       styletext: _0x515724
     } = require("../lib/scraper");
