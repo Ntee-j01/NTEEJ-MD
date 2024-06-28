@@ -1,3 +1,4 @@
+//nteej
 const { smd, isUrl, Config } = require("../lib/index");
 import("node-fetch")
   .then((_0x58577b) => {
