@@ -1,15 +1,16 @@
 {
     "name": "NTEEJ-MD",
     "version": "1.0.0",
-    "description": "Simple Whatsapp Bot with multipurpose features",
+    "description": "Simple Whatsapp Bot made by nteej",
     "main": "index.js",
     "type": "commonjs",
     "scripts": {
         "run": "pm2 start . --deep-monitoring --attach --name Anita_0.1 || node .",
         "start": "pm2 start . --attach --name Anita_0.1",
-        "stop": "pm2 stop Anita_0.1"
+        "stop": "pm2 stop Anita_0.1",
+        "build": "echo \"Building the project...\""
     },
-    "author": "NTEEJ",
+    "author": "QUEEN_ANITA-V2",
     "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
         "@hapi/boom": "^9.1.4",
