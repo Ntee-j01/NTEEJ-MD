@@ -10,7 +10,7 @@
         "stop": "pm2 stop Anita_0.1",
         "build": "echo \"Building the project...\""
     },
-    "author": "QUEEN_ANITA-V2",
+    "author": "NTEEJ-MD",
     "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
         "@hapi/boom": "^9.1.4",
