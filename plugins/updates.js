@@ -122,15 +122,15 @@ smd(
   {
     pattern: "channel",
     type: "misc",
-    info: "QUEEN_ANITA-V2 Support Channels",
+    info: "NTEEJ-MD Support Channels",
   },
   async (_0x5ce955) => {
     try {
       let _0x1a71d9 = "https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z";
       let _0x162ed5 =
-        "*_https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z_*\n*_JOIN WHATSAPP CHANNEL TO GET UPDATES._*\n\n\n*_https://youtube.com/SuhailTechInfo !_*\n*_WATCH HELPFULL VIDEO TUTORIALS ABOUT WHATSAPP BOTS FROM YOUTUBE ♥._*\n";
+        "*_https://whatsapp.com/channel/0029Vae3GZF9Bb658QgSCl1I_*\n*_JOIN WHATSAPP CHANNEL TO GET UPDATES._*\n\n\n*_https://youtube.com/SuhailTechInfo !_*\n*_WATCH HELPFULL VIDEO TUTORIALS ABOUT WHATSAPP BOTS FROM YOUTUBE ♥._*\n";
       let _0x39b0a0 = await _0x5ce955.bot.contextInfo(
-        "QUEEN_ANITA-V2",
+        "NTEEJ-MD",
         "Hello " + _0x5ce955.senderName,
         await smdBuffer("https://i.postimg.cc/FssKzLK7/20240622-140407.jpg"),
         1,

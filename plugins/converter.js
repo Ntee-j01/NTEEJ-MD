@@ -59,7 +59,7 @@ smd({
     }
     let _0x44d3dd = _0x3febcd.split("|");
     let _0x47c982 = _0x44d3dd[0]?.trim() !== "" ? _0x44d3dd[0] : _0x471740.pushName;
-    let _0x20f704 = _0x44d3dd[1] && _0x44d3dd[1] !== "" ? _0x44d3dd[1] : "QUEEN_ANITA-V2👸";
+    let _0x20f704 = _0x44d3dd[1] && _0x44d3dd[1] !== "" ? _0x44d3dd[1] : "NTEEJ-MD";
     let _0x3ab776 = await _0xad98fb.download();
     let _0x3d0871 = {
       pack: _0x47c982,
@@ -315,7 +315,7 @@ smd({
   filename: __filename
 }, async (_0x230c03, _0x3b568a) => {
   try {
-    let _0x365550 = "┏━━━━━━━━━━━━━━━━━━━━━━━━\n┃\t*💬QUEEN_ANITA-V2_FANCY_TEXT💬* \n┗━━━━━━━━━━━━━━━━━━━━━━━━\n\n " + (_0x3b568a ? "```🔢Reply the number you wants to select``` \n\n" : "```\t\t" + prefix + "fancy Suhail(For all text)\n\t\t" + prefix + "fancy 25 Suhail(For specific text)```\n\n");
+    let _0x365550 = "┏━━━━━━━━━━━━━━━━━━━━━━━━\n┃\t*💬NTEEJ_FANCY_TEXT💬* \n┗━━━━━━━━━━━━━━━━━━━━━━━━\n\n " + (_0x3b568a ? "```🔢Reply the number you wants to select``` \n\n" : "```\t\t" + prefix + "fancy Suhail(For all text)\n\t\t" + prefix + "fancy 25 Suhail(For specific text)```\n\n");
     let _0x50c7d9 = parseInt(_0x3b568a);
     if (isNaN(_0x50c7d9)) {
       let _0x4ca942 = _0x3b568a ? _0x3b568a : "Suhail";
@@ -396,7 +396,7 @@ smd({
   try {
     let _0xd51ec = _0x4cb7aa ? _0x4cb7aa : _0x4cfc4e.reply_text;
     if (!_0xd51ec) {
-      return _0x4cfc4e.reply("*_Example : " + prefix + "fliptext QUEEN_ANITA-V2!_*");
+      return _0x4cfc4e.reply("*_Example : " + prefix + "fliptext NTEEJ-MD!_*");
     }
     let _0x5c7a34 = _0xd51ec.split("").reverse().join("");
     await _0x4cfc4e.reply("*「  Text Flipper Tool  」* \n*IGiven text :*\n" + _0xd51ec + "\n\n*Fliped text :*\n" + _0x5c7a34);
@@ -576,7 +576,7 @@ smd({
 }, async _0x4ed07c => {
   let _0xadff0d = _0x4ed07c.mtype === "videoMessage" ? _0x4ed07c : _0x4ed07c.reply_message;
   if (!_0xadff0d) {
-    return _0x4ed07c.reply("*_Uhh Dear, Reply To Animated Sticker or Gif!!_*");
+    return _0x4ed07c.reply("*_Uhh Dear, Reply To animated Sticker or Gif!!_*");
   }
   const {
     webp2mp4File: _0x3e4a6e

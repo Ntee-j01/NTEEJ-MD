@@ -736,7 +736,7 @@ smd(
   async (_0x45da98) => {
     try {
       let { data: _0x44f98c } = await axios.get(
-        "https://api.github.com/repos/DeeCeeXxx/QUEEN_ANITA-V2d"
+        "https://api.github.com/repos/Ntee-j01/NTEEJ-MDd"
       );
       let _0x1c73f9 = (
         "\nNTEEJ-MD A simple Mutil Device WhatsApp Bot with rich library Created and Managed by *" +

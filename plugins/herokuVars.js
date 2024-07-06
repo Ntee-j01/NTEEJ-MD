@@ -270,7 +270,7 @@ smd(
     }
     let _0x762894 = (
       "\n   👤 *" +
-      (Config.botname ? Config.botname : "QUEEN_ANITA-V2") +
+      (Config.botname ? Config.botname : "NTEEJ-MD") +
       " MODS* 👤\n   \n" +
       _0x10bccf
     ).trim();

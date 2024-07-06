@@ -297,7 +297,7 @@ smd({
   desc: "text to speech.",
   category: "downloader",
   filename: __filename,
-  use: "<Hii,this is Anita>"
+  use: "<Hii,this is Nteej>"
 }, async (_0x55aba2, _0x56da6b) => {
   try {
     let _0x204f81 = _0x55aba2.reply_text ? _0x55aba2.reply_text : _0x56da6b;
@@ -975,7 +975,7 @@ smd({
     try {
       let _0x32b31a = await ytdl.getInfo(_0x1d542b[0]);
       _0x43c5ac = _0x32b31a.videoDetails.title;
-      let _0x4b47c3 = "./assets/QUEEN_ANITA-V2" + _0x1d542b[1] + ".mp3";
+      let _0x4b47c3 = "./assets/NTEEJ-MD" + _0x1d542b[1] + ".mp3";
       const _0x212389 = ytdl(_0x1d542b[0], {
         filter: _0xd2371a => _0xd2371a.audioBitrate == 160 || _0xd2371a.audioBitrate == 128
       }).pipe(fs.createWriteStream(_0x4b47c3));

@@ -66,7 +66,7 @@
 3.  ***New menu***
 4.  ***heroku ban fixed***
 5.  ***github deploy added***
-6.  ***Bug commands 🪲 added***
+
 ##
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>

@@ -384,7 +384,7 @@ cmd(
         return message.reply(
           "Please Give Me User Name, \n *Example : " +
             prefix +
-            "vcard QUEEN_ANITA-V2* "
+            "vcard NTEEJ-MD* "
         );
       }
 

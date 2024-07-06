@@ -120,7 +120,7 @@ smd(
     try {
       if (!_0x550f0a) {
         return _0x209bcb.reply(
-          "*_Example : " + (prefix + _0x92ce9a) + " Anita_*"
+          "*_Example : " + (prefix + _0x92ce9a) + " Nteej_*"
         );
       }
       return await textToLogoGenerator(
@@ -147,7 +147,7 @@ smd(
     try {
       if (!match) {
         return _0x287ddf.reply(
-          "*_Example : " + (prefix + _0x23d32d) + " Anita_*"
+          "*_Example : " + (prefix + _0x23d32d) + " Nteej_*"
         );
       }
       return await textToLogoGenerator(
@@ -174,7 +174,7 @@ smd(
     try {
       if (!_0x217edf) {
         return _0x1658cc.reply(
-          "*_Example : " + (prefix + _0x1f1d94) + " Anita_*"
+          "*_Example : " + (prefix + _0x1f1d94) + " Nteej_*"
         );
       }
       return await textToLogoGenerator(
@@ -201,7 +201,7 @@ smd(
     try {
       if (!_0x2be604) {
         return _0x4db464.reply(
-          "*_Example : " + (prefix + _0x46bb33) + " Anita_*"
+          "*_Example : " + (prefix + _0x46bb33) + " Nteej_*"
         );
       }
       return await textToLogoGenerator(
@@ -228,7 +228,7 @@ smd(
     try {
       if (!_0x2e2993) {
         return _0x507353.reply(
-          "*_Example : " + (prefix + _0x4b0f74) + " Anita_*"
+          "*_Example : " + (prefix + _0x4b0f74) + " Nteej_*"
         );
       }
       return await textToLogoGenerator(
@@ -255,7 +255,7 @@ smd(
     try {
       if (!_0x9fed0e) {
         return _0x106fc0.reply(
-          "*_Example : " + (prefix + _0x5b5c5c) + " Anita_*"
+          "*_Example : " + (prefix + _0x5b5c5c) + " Nteej_*"
         );
       }
       return await textToLogoGenerator(
@@ -282,7 +282,7 @@ smd(
     try {
       if (!_0x54dc94) {
         return _0x2c5e4d.reply(
-          "*_Example : " + (prefix + _0x201030) + " Anita_*"
+          "*_Example : " + (prefix + _0x201030) + " Nteej_*"
         );
       }
       return await textToLogoGenerator(
@@ -309,7 +309,7 @@ smd(
     try {
       if (!_0x1daf45) {
         return _0xb24628.reply(
-          "*_Example : " + (prefix + _0x317c2e) + " Anita_*"
+          "*_Example : " + (prefix + _0x317c2e) + " Nteej_*"
         );
       }
       return await textToLogoGenerator(
@@ -336,7 +336,7 @@ smd(
     try {
       if (!_0x2712a3) {
         return _0x19ea9c.reply(
-          "*_Example : " + (prefix + _0x3da883) + " Anita_*"
+          "*_Example : " + (prefix + _0x3da883) + " Nteej_*"
         );
       }
       return await textToLogoGenerator(
@@ -363,7 +363,7 @@ smd(
     try {
       if (!_0x4759ef) {
         return _0x3580cc.reply(
-          "*_Example : " + (prefix + _0x25c70f) + " Anita_*"
+          "*_Example : " + (prefix + _0x25c70f) + " Nteej_*"
         );
       }
       return await textToLogoGenerator(
@@ -390,7 +390,7 @@ smd(
     try {
       if (!_0x550c65) {
         return _0x33543a.reply(
-          "*_Example : " + (prefix + _0x5932cf) + " Anita_*"
+          "*_Example : " + (prefix + _0x5932cf) + " Nteej_*"
         );
       }
       return await textToLogoGenerator(
@@ -417,7 +417,7 @@ smd(
     try {
       if (!_0x30ff16) {
         return _0x177d36.reply(
-          "*_Example : " + (prefix + _0x51912b) + " Anita_*"
+          "*_Example : " + (prefix + _0x51912b) + " Nteej_*"
         );
       }
       return await textToLogoGenerator(
@@ -444,7 +444,7 @@ smd(
     try {
       if (!_0x2049f9) {
         return _0x1c1874.reply(
-          "*_Example : " + (prefix + _0x5462f4) + " Anita_*"
+          "*_Example : " + (prefix + _0x5462f4) + " Nteej_*"
         );
       }
       return await textToLogoGenerator(
@@ -471,7 +471,7 @@ smd(
     try {
       if (!_0x3c787b) {
         return _0x435d39.reply(
-          "*_Example : " + (prefix + _0x4839f1) + " Anita_*"
+          "*_Example : " + (prefix + _0x4839f1) + " Nteej_*"
         );
       }
       return await textToLogoGenerator(
@@ -498,7 +498,7 @@ smd(
     try {
       if (!_0x44fbfa) {
         return _0x273636.reply(
-          "*_Example : " + (prefix + _0xf45ca4) + " Anita_*"
+          "*_Example : " + (prefix + _0xf45ca4) + " Nteej_*"
         );
       }
       return await textToLogoGenerator(
@@ -525,7 +525,7 @@ smd(
     try {
       if (!_0x152a11) {
         return _0xf01fbd.reply(
-          "*_Example : " + (prefix + _0x3bd3be) + " Anita_*"
+          "*_Example : " + (prefix + _0x3bd3be) + " Nteej_*"
         );
       }
       return await textToLogoGenerator(
@@ -579,7 +579,7 @@ smd(
     try {
       if (!_0x49d874) {
         return _0x4d2f55.reply(
-          "*_Example : " + (prefix + _0x4f01f0) + " Anita_*"
+          "*_Example : " + (prefix + _0x4f01f0) + " Nteej_*"
         );
       }
       return await textToLogoGenerator(
@@ -606,7 +606,7 @@ smd(
     try {
       if (!_0x474228) {
         return _0x356d68.reply(
-          "*_Example : " + (prefix + _0x31efdc) + " Anita_*"
+          "*_Example : " + (prefix + _0x31efdc) + " Nteej_*"
         );
       }
       return await textToLogoGenerator(
@@ -633,7 +633,7 @@ smd(
     try {
       if (!_0x1526fa) {
         return _0x5840f6.reply(
-          "*_Example : " + (prefix + _0x12cadb) + " Anita_*"
+          "*_Example : " + (prefix + _0x12cadb) + " Nteej_*"
         );
       }
       return await textToLogoGenerator(
@@ -660,7 +660,7 @@ smd(
     try {
       if (!_0x537b5d) {
         return _0x2b9514.reply(
-          "*_Example : " + (prefix + _0x5b77bc) + " Anita_*"
+          "*_Example : " + (prefix + _0x5b77bc) + " Nteej_*"
         );
       }
       return await textToLogoGenerator(
@@ -687,7 +687,7 @@ smd(
     try {
       if (!_0x195908) {
         return _0x4a4e04.reply(
-          "*_Example : " + (prefix + _0x53545f) + " Anita_*"
+          "*_Example : " + (prefix + _0x53545f) + " Nteej_*"
         );
       }
       return await textToLogoGenerator(
@@ -714,7 +714,7 @@ smd(
     try {
       if (!_0xde1750) {
         return _0x20b5a4.reply(
-          "*_Example : " + (prefix + _0x3f5e61) + " Anita_*"
+          "*_Example : " + (prefix + _0x3f5e61) + " Nteej_*"
         );
       }
       return await textToLogoGenerator(
