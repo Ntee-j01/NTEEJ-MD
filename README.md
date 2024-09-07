@@ -1,6 +1,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<img alt="NTEEJ MD" height="300" src="https://i.postimg.cc/tgg4fv86/nteej.jpg">
+<img alt="NTEEJ MD" height="300" src="https://i.postimg.cc/k4kL34q2/asta.jpg">
   
 <h1 align="center"> 🇳 🇹 🇪 🇪 🇯 -🇲 🇩   </h1> 
 <p align="center">l introduce <b>Nteej-MD</b>, a powerful simple to use interactive bot with many features.It is a multidevice bot created and designed by Nteej Tech to make your whatsapp more exciting and entertaining.Please support us and we will bring more amazing features  </p>
@@ -58,16 +58,6 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## NTEEJ-MD UPDATES
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
----
-1. ***Connect Four Game.***
-2.  ***Tic Tac Toe.***
-3.  ***New menu***
-4.  ***heroku ban fixed***
-5.  ***github deploy added***
-
-##
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -104,7 +94,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 6.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
 7.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Ntee-j01/NTEEJ-MD)***
 8.  ***Deploy on [`Replit`](https://replit.com/github.com/Ntee-j01/NTEEJ-MD)***
-9.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Kingjux/Venocyber-md-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=255698101622env[MONGODB_URI]&&env[OWNER_NAME]=Venocyber&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Venocyber+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=VENOCYBER&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=Venocyber-md&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/ecb1a11c450276bf7d396.jpg)***
+9.  ***Deploy on [`Koyeb`](https:
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ##
 ---
@@ -119,7 +109,6 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 - [Nteej Tech](https://github.com/Ntee-j01) 
 
 
-
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ##
@@ -127,16 +116,12 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 ### Credits to:
 `much thanks to`
 - [`Cod3Uchiha`](https://github.com/Cod3Uchiha) for supporting and advice
-- [`DeeCeeXxx`](https://github.com/DeeCeeXxx) code encryption
-- [`AstroFx0011`](https://github.com/AstroFx0011) base of the bot
 - [`D4X-UMAR`](https://github.com/D4X-UMAR) for pairing and session tool
 
 ---
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
 
 ### support us
 
@@ -156,11 +141,9 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 
 <p align="center">
   <a href="https://github.com/Ntee-j01/NTEEJ-MD">
-    <img alt="NTEEJ MD" height="300" src="https://i.postimg.cc/FssKzLK7/20240622-140407.jpg">
   </a>
 </p>
     
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+ 
